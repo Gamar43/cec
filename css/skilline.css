@@ -9,10 +9,10 @@ body {
 }
 
 .bg-yellow-500 {
-    background-color: #013f3e;
+    background-color: #c6a461;
 }
 .text-yellow-500 {
-    color: #013f3e;
+    color: #c6a461;
 }
 .floating { 
     animation-name: floating; 
